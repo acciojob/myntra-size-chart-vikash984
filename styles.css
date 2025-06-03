@@ -1,2 +1,24 @@
-
-/* Your CSS Code here. */
+ table {
+      width:100%;
+      border-collapse: collapse;
+      margin:20px auto;
+      font-family: Arial, sans-serif;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding:5px;
+    }
+#eg1{
+	background-color:#C0504D;
+	color:white;
+}
+#eg2{
+	background-color:#DA9694;
+	color:white;
+}
+#eg3{
+	background-color:#F2DCDB;
+}
+#eg4{
+	background-color:#D9D9D9;
+}
